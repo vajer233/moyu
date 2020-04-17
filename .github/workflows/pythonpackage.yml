@@ -7,7 +7,7 @@ on:
   push:
     branches: [ master ]
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 4 * * *'
 jobs:
   build:
 
@@ -29,4 +29,3 @@ jobs:
     - name: run task
       run: |
         python bili2.py
-        python bili1.py
