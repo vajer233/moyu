@@ -5,7 +5,7 @@ import time
 
 url = 'https://oapi.dingtalk.com/robot/send?access_token=94d6f3103ea61db64868ddc6ef02778f1ae2adf8334780db2860efa2a321c1cd'
 # 罗翔说刑法,毕导THU,硬核的半佛仙人，YouTube听力精选
-bili_ids = ['517327498','254463269','37663924','6926237']
+bili_ids = ['517327498','254463269','37663924','6926237','546195']
 yesterday = time.time()-60*60*24*2  # 1天前
 
 obj = {
