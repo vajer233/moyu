@@ -11,5 +11,4 @@ def dingTalk():
           }
     json_data=json.dumps(data)
     requests.post(url='https://oapi.dingtalk.com/robot/send?access_token=c33c89e30a81b9c7ab78c93acf0a48e0cdf1e5923f78ef3f774c65105352ec26',data=json_data,headers=headers)
-for i in range(10):
-    dingTalk()
+dingTalk()
