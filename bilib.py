@@ -8,7 +8,7 @@ def dingTalk():
     data={
             "actionCard": {
                 "title":"哔哩哔哩英文人声三日榜",
-                "text": "![9f510fb30f2442a7c2e40af4da43ad4bd01302fc.jpg](https://i.loli.net/2020/05/31/Ft23lbGiWR57JPQ.jpg) 哔哩哔哩英文人声三日榜 \n放松一下，听首歌吧～",
+                "text": "![a.jpg](https://i.loli.net/2020/08/06/j1d7S8kamNhvBor.jpg) 哔哩哔哩英文人声三日榜 \n放松一下，听首歌吧～",
                 "singleTitle":"查看网页",
                 "hideAvatar":"0",
                 "singleURL": 'https://m.bilibili.com/audio/am30474',
