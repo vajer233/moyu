@@ -5,7 +5,7 @@ import time
 url = 'https://oapi.dingtalk.com/robot/send?access_token=c92c80978be7d47ebaa12f450302c68194bc100994025563d85170e1c55f9183'
 # 罗翔说刑法,毕导THU,何同学
 bili_ids = ['517327498','254463269','163637592']
-yesterday = time.time()-60*60*24*2  # 1天前
+yesterday = time.time()-60*60*24  # 1天前
 
 obj = {
     "msgtype": "text",
